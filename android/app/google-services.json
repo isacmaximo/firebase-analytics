@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757975868489",
+    "project_id": "analytics-app-e55cd",
+    "storage_bucket": "analytics-app-e55cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757975868489:android:e7770ff4795f18731e0b98",
+        "android_client_info": {
+          "package_name": "maximo.isac.app_analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNu6kbpMnzIvdzJhPLG2-trgTMOEHSyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
