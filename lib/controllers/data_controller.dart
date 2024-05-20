@@ -1,4 +1,4 @@
-import 'package:app_analytics/models/category_itemdart';
+import 'package:app_analytics/models/category_item.dart';
 import 'package:app_analytics/models/item.dart';
 import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter/material.dart';
